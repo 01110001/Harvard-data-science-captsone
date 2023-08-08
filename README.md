@@ -1,1 +1,2 @@
-# Harvard-data-science-captsone
+# Harvard-data-science-capstone
+
